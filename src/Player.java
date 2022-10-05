@@ -11,7 +11,7 @@ public class Player {
                 return;
             }
         }
-        System.out.println("You have know room in your inventory.");
+        System.out.println("You have no room in your inventory.");
     }
 
     //Prints the inventory.
